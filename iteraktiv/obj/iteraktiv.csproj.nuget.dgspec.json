@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\programering 1\\interaktiv\\iteraktiv\\iteraktiv.csproj": {}
+    "c:\\programering 1\\interaktiv\\iteraktiv\\iteraktiv.csproj": {}
   },
   "projects": {
-    "C:\\programering 1\\interaktiv\\iteraktiv\\iteraktiv.csproj": {
+    "c:\\programering 1\\interaktiv\\iteraktiv\\iteraktiv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\programering 1\\interaktiv\\iteraktiv\\iteraktiv.csproj",
+        "projectUniqueName": "c:\\programering 1\\interaktiv\\iteraktiv\\iteraktiv.csproj",
         "projectName": "iteraktiv",
-        "projectPath": "C:\\programering 1\\interaktiv\\iteraktiv\\iteraktiv.csproj",
+        "projectPath": "c:\\programering 1\\interaktiv\\iteraktiv\\iteraktiv.csproj",
         "packagesPath": "C:\\Users\\bilal.asry\\.nuget\\packages\\",
-        "outputPath": "C:\\programering 1\\interaktiv\\iteraktiv\\obj\\",
+        "outputPath": "c:\\programering 1\\interaktiv\\iteraktiv\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
